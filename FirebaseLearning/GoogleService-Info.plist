@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>210321370969-3or9lkchbpub5b94fnvnh039lb2pcg3i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.210321370969-3or9lkchbpub5b94fnvnh039lb2pcg3i</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBSOl3Y6sdHbfCkF1HyxOhcW3M7bTuB7eI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>210321370969</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>sahil.FirebaseLearning</string>
+	<key>PROJECT_ID</key>
+	<string>my-project-1-87919</string>
+	<key>STORAGE_BUCKET</key>
+	<string>my-project-1-87919.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:210321370969:ios:2cee3e878f9b9acbc92648</string>
+	<key>DATABASE_URL</key>
+	<string>https://my-project-1-87919.firebaseio.com</string>
+</dict>
+</plist>
